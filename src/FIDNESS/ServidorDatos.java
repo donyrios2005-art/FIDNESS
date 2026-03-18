@@ -13,7 +13,7 @@ public class ServidorDatos {
         rutinas.clear();
 
         usuarios.add(new Administrador("Admin General", "admin", "123"));
-        usuarios.add(new Cliente("Monica", "monica", "123"));
+        usuarios.add(new Cliente("Donovan", "dorios", "123"));
         usuarios.add(new Cliente("Juan", "juan", "123"));
 
         ejercicios.add(new Ejercicio("Sentadilla", "PIERNA", "Principiante", "Ejercicio para fortalecer piernas."));
